@@ -27,3 +27,7 @@ This repo is created to practice and improve my frontend development skills.
 
 For more projects and solutions, check out my Frontend Mentor profile:
 https://www.frontendmentor.io/profile/semaozylmz
+
+
+---
+...by Nora
