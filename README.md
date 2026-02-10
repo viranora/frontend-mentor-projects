@@ -30,4 +30,4 @@ For more projects and solutions, check out my Frontend Mentor profile:
 
 
 ---
-...by Nora
+...by sema
